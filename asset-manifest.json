@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.a53130f4.chunk.css",
-    "main.js": "/repository-name/static/js/main.b10bda4c.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.b10bda4c.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.5a4a9892.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.5a4a9892.js.map",
-    "static/js/2.1ab0dbde.chunk.js": "/repository-name/static/js/2.1ab0dbde.chunk.js",
-    "static/js/2.1ab0dbde.chunk.js.map": "/repository-name/static/js/2.1ab0dbde.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.696c3f3f12e22593bfc1091e74057e96.js": "/repository-name/precache-manifest.696c3f3f12e22593bfc1091e74057e96.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.a53130f4.chunk.css.map": "/repository-name/static/css/main.a53130f4.chunk.css.map",
-    "static/js/2.1ab0dbde.chunk.js.LICENSE.txt": "/repository-name/static/js/2.1ab0dbde.chunk.js.LICENSE.txt",
-    "static/media/twitter.png": "/repository-name/static/media/twitter.400dc885.png"
+    "main.css": "/twitter-simulator/static/css/main.a53130f4.chunk.css",
+    "main.js": "/twitter-simulator/static/js/main.337c59a4.chunk.js",
+    "main.js.map": "/twitter-simulator/static/js/main.337c59a4.chunk.js.map",
+    "runtime-main.js": "/twitter-simulator/static/js/runtime-main.48880b9c.js",
+    "runtime-main.js.map": "/twitter-simulator/static/js/runtime-main.48880b9c.js.map",
+    "static/js/2.1ab0dbde.chunk.js": "/twitter-simulator/static/js/2.1ab0dbde.chunk.js",
+    "static/js/2.1ab0dbde.chunk.js.map": "/twitter-simulator/static/js/2.1ab0dbde.chunk.js.map",
+    "index.html": "/twitter-simulator/index.html",
+    "precache-manifest.4d290a5a504af42bbfcf517055e51479.js": "/twitter-simulator/precache-manifest.4d290a5a504af42bbfcf517055e51479.js",
+    "service-worker.js": "/twitter-simulator/service-worker.js",
+    "static/css/main.a53130f4.chunk.css.map": "/twitter-simulator/static/css/main.a53130f4.chunk.css.map",
+    "static/js/2.1ab0dbde.chunk.js.LICENSE.txt": "/twitter-simulator/static/js/2.1ab0dbde.chunk.js.LICENSE.txt",
+    "static/media/twitter.png": "/twitter-simulator/static/media/twitter.400dc885.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a4a9892.js",
+    "static/js/runtime-main.48880b9c.js",
     "static/js/2.1ab0dbde.chunk.js",
     "static/css/main.a53130f4.chunk.css",
-    "static/js/main.b10bda4c.chunk.js"
+    "static/js/main.337c59a4.chunk.js"
   ]
 }
